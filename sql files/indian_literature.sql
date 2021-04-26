@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Apr 24, 2021 at 10:25 PM
+-- Generation Time: Apr 26, 2021 at 07:29 AM
 -- Server version: 5.7.26
 -- PHP Version: 7.4.2
 
@@ -61,7 +61,7 @@ INSERT INTO `books` (`bookid`, `title`, `alternative`, `publication_year`, `genr
 (362, 'વડવાનલ', 'Vadvanal', 1963, 'Fiction Novel', '0', 'સતત સ્નેહ ઝંખતા શૈશવ પર અવહેલનાની હિમવર્ષા અને અન્યાયની અગ્નિવર્ષા થતી જ રહે ત્યારે જે થાય તે જ રેખાના જીવનમાં થયું અને ધીરુબહેનની નજરે ચડ્યું. એમાંથી જન્મી \'વડવાનલ\'. લેખિકાની પ્રથમ અને પ્રલંબ નવલકથા જેને મુંબઈ સરકારનું પ્રથમ પારિતોષિક તથા અસંખ્ય વાચકોના હૃદયમાં અવિસ્મરણીય સ્થાન પ્રાપ્ત થયું. શીતળ અને નીલ મહાસાગરના પેટાળમાં સદાય જ્વલંત રહેતો વડવાગ્નિ જ્યારે સપાટી પર એકાએક દર્શન દે ત્યારે શું થાય?', 'The same thing happened in Rekha\'s life and caught Dhirubahen\'s eye when the snowball of contempt and the fire of injustice continued to fall on the child longing for love. \'Vadvanal\' was born from this. The author\'s first and foremost novel which won the first prize of the Government of Mumbai and an unforgettable place in the hearts of many readers. What happens when Vadvagni, which is always burning in the bottom of the cold and blue ocean, suddenly appears on the surface?', 'http://www.booksvilla.co.in/index.php?route=product/product&product_id=4723', '9788180000000', '0', 0x30),
 (363, 'મહાભિનિષ્ક્રમણ', 'Mahabhinishkaramana', 1968, 'Fiction Novel', '0', 'આ વાર્તા અમિત દલાલ નામના પાત્રના પ્રેમ ત્રિકોણને અનુસરે છે અને તે ત્રણ મહિલાઓ સાથેના તેના સંબંધની શોધ કરે છે: ચંદન, તેની માતા; રામ, તેની પત્ની અને સરોજ, તેનો પ્રેમી. પરીખ તેમના વર્ણનમાં ચેતનાના પ્રવાહને રોજગારી આપે છે. તેણે પીપલ ટ્રી અને અંધકાર જેવા પ્રધાનતત્ત્વનો ઉપયોગ કર્યો છે. તેણે તેના પાત્રના સંબંધોમાં ઓડિપસ સંકુલન વાપારયો છે. નવલકથા ખાસ કરીને તેની ભાષા માટે પ્રશંસા કરવામાં આવી હતી.', 'The story follows a love triangle of a character named Amit Dalal and it explores his relationship with three ladies: Chandan, his mother; Rama, his wife and Saroj, his lover. Parikh employs the stream of consciousness in his narration. He has used motifs such as pipal tree and darkness. He has explored Oedipus complex in his character\'s relationships. The novel was particularly praised for its language', '0', '0', '0', 0x30),
 (364, 'કોણ', 'Kon? (Who?)', 1969, 'Fiction Novel', '0', '0', '0', 'http://www.gujaratibookshelf.com/index.php?route=product/product&product_id=328', '0', '0', 0x30),
-(365, 'માધવ ક્યાંય નથી', 'Madhav Kyany Nathi (Krishna is Nowhere)', 1970, 'Fiction Novel', '0', '0', '0', '0', '0', '0', 0x30),
+(365, 'માધવ ક્યાંય નથી', 'Madhav Kyany Nathi (Krishna is Nowhere)', 1970, 'Fiction Novel', '0', '0', '0', '', '0', '0', 0x30),
 (366, 'વિશ્વજીત', 'Visvajit', 1965, 'Fiction Novel', '0', '0', '0', '0', '0', '0', 0x30),
 (367, 'સોક્રેટીસ', 'Socrates', 1974, 'Fiction Novel', '0', '0', '0', '0', '0', '0', 0x30),
 (369, 'विवरता', 'Vivarta', 1994, 'Fiction Novel', '0', '0', '0', '0', '0', '0', 0x30),
@@ -75,7 +75,7 @@ INSERT INTO `books` (`bookid`, `title`, `alternative`, `publication_year`, `genr
 (377, 'वे दिन', 'Ve Din', 1964, 'Fiction Novel', '0', 'इतिहास निर्मल वर्मा के कथा-शिल्प में उसी तरह मौजूद रहता है जैसे हमारे जीवन में-लगातार मौजूद लेकिन अदृश्य। उससे हमारे दुःख और सुख तय होते हैं वैसे ही जैसे उनके कथा-पात्रों के। कहानी का विस्तार उसमें बस यह करता है कि इतिहास के उन मूक और भीड़ में अनचीन्हे ‘विषयों’ को एक आलोक-वृत्त से घेरकर नुमायाँ कर देता है, ताकि वे दिखने लगे, ताकि उनकी पीड़ा की सूचना एक जवाबी संदेश की तरह इतिहास और उसकी नियंता शक्तियों तक पहुँच सके। इस प्रक्रिया में अगर उनकी कथा कुछ ऐसे व्यक्तियों को रच देती है कि जिनकी वैयक्तिकता की आभा हमारे लिए ईर्ष्या का कारण हो उठे, तो यह उनका व्यक्तिवाद नहीं है, व्यक्ति के स्तर पर एक वैकल्पिक मनुष्य का खाका तैयार करने की कोशिश है।', 'History is present in the story-craft of Nirmal Varma in the same way as in our lives - constantly present but invisible. That determines our sorrows and happiness, just like their storytellers. The story expands in that it encapsulates those silent and crowded \'subjects\' of history with a luminosity, so that they begin to appear, so that the information of their suffering is like a counter message to history and its Controllers could reach the powers. In the process, if his narrative creates some individuals whose aura of individuality is a cause of envy for us, then it is not their individualism, it is an attempt to create a blueprint of an alternative human being at the level of the individual.', 'https://pustak.org/index.php/books/bookdetails/2460', '9788130000000', '0', 0x30),
 (378, 'सोया हुआ जल', 'Soya Hua Jal', 1977, 'Fiction Novel', '0', '0', '0', 'https://www.pustakmandi.com/soya-hua-jal-sarveshwar-dayal-saxena', '9788170000000', '0', 0x30),
 (379, 'एक हटी हुई ज़िंदगी', 'Ek Kati Hui Zindagi, Ek Kata Hua Kagaj', 1965, 'Fiction Novel', '0', '0', '0', 'https://books.google.com/books/about/Ek_Kati_Hui_Zindagi_ek_Kata_Hua_Kaghaz.html?id=hEnMYgEACAAJ', '0', '0', 0x30),
-(380, 'ख़ाली ख़ुरसी की आत्मा', 'Khali Kursi ki Atma', 1958, 'Fiction Novel', '0', '0', '0', 'https://archive.org/details/in.ernet.dli.2015.478228', '0', '0', 0x30),
+(380, 'ख़ाली ख़ुरसी की आत्मा', 'Khali Kursi ki Atma', 1958, 'Fiction Novel', '0', NULL, '0', 'https://archive.org/details/in.ernet.dli.2015.478228', '0', '0', 0x30),
 (381, 'अंधेरे बंध कमरे', 'Andhere Bandh Kamare', 1961, 'Fiction Novel', '', 'वर्तमान भारतीय समाज का अभिजात नागर मन दो हिस्सों में विभाजित हैदृएक में है पश्चिमी आधुनिकतावाद और दूसरे में वंशानुगत संस्कारवाद। इससे इस वर्ग के भीतर का द्वन्द्व पैदा होता है, उससे पूर्णता के बीच रिक्तता, स्वच्छन्दता के बीच अवरोध और प्रकाश के बीच अन्धकार आ खड़ा होता है। परिणामतः व्यक्ति ऊबने लगता है, भीतर ही भीतर क्रोध, ईर्ष्या और सन्देह जकड़ लेते हैं उसे, अपने ही लिए अजनबी हो उठता है वह, और तब इसे हम हरबंस की शक्ल में पहचानते हैंदृहरबंस इस उपन्यास का केन्द्रीय पात्र, जो दाम्पत्य सम्बन्धों की सहज रागात्मकता, ऊष्मा और अर्थवत्ता की तलाश में भटक रहा है। हरबंस और नीलिमा के माध्यम से प्र ईमानदारी, त लगाव और मानसिक समदृष्टि से रिक्त दाम्पत्य जीवन का यहाँ प्रभावशाली चित्रण हुआ है। अपनी पहचान के लिए पहचानहीन होते जा रहे भारतीय अभिजातवर्ग की भौतिक, बौद्धिक और सांस्कृतिक महत्त्वाकांक्षाओं के अँधेरे बन्द कमरों को खोलनेवाला यह उपन्यास हिन्दी की विशिष्टतम कथाकृतियों में गण्य है।', 'The aristocratic civil mind of present-day Indian society is divided into two parts, one is Western modernism and the other is hereditary ritualism. This creates a duality within this class, it creates vacancy between perfection, barrier between freedom and darkness between light. As a result, the person starts to get bored, within, gets angry, jealousy and doubt, he becomes a stranger to himself, and then we recognize it in the form of Harbans. Through Harbans and Neelima, there is an impressive depiction of empty married life here with honesty, passion and mental vision. This novel, which opens the dark closed rooms of the physical, intellectual and cultural ambitions of the Indian elite, becoming identityless for its identity, is counted among the most distinctive narratives of Hindi.', 'https://www.amazon.in/Andhere-Band-Kamare-Mohan-Rakesh/dp/8126707860/ref=sr_1_1?dchild=1&keywords=andhere+band+kamre&qid=1618262432&s=books&sr=1-1', '9788130000000', '0', 0x30),
 (382, 'वतन  और  देश - झूठा  सच  वॉल्यूम  १ ', 'Vatan Aur Desh - Jhuta Sach Volume 1', 1958, 'Fiction Novel', '2', 'वतन और देश लाहौर में सेट किया गया है, जिसमें पात्रों का मिश्रण है, जिसमें केंद्रीय और अंततः कमजोर नायक पुरी भी शामिल हैं, जो स्वतंत्रता से पहले के दशकों में वैचारिक किण्वन और सामाजिक परिवर्तन का एक प्रमुख मिश्रण करता है।', 'Vatan aur Desh is set in Lahore, with a mix of characters, including the central and ultimately weak hero Puri, carries a heady mix of ideological ferment and social change in the decades preceding Independence. Th', 'https://www.amazon.com/Jhootha-Sach-Vatan-Aur-Desh/dp/8180315185', '9788180000000', '0', 0x30),
 (383, 'देश  का  भविष्य - झूठा  सच  वॉल्यूम  २ ', 'Desh Ka Bhavishya- Jhuta Sach Volume 2', 1960, 'Fiction Novel', '2', 'देश का भाविष्य जालंधर, दिल्ली और लखनऊ में स्थापित किया गया है, एक दोहरे आंदोलन को दर्शाता है। एक तरफ, उखाड़े गए चरित्र खुद को एक नए देश में बनाने के लिए संघर्ष कर रहे हैं, जबकि वतन की व्यवस्थित निरंतरता अब संभव नहीं है।', 'Desh Ka Bhavishya, is set in Jalandhar, Delhi and Lucknow, depicts a dual movement. On the one hand, the uprooted characters are struggling to create themselves in a new desh, whereas the settled continuities of vatan are no longer possible.', 'https://www.amazon.in/Jhutha-Sach-Desh-Bhavishya-Vol/dp/8180315193/ref=sr_1_1?dchild=1&keywords=desh+ka+bhavishya&qid=1618421482&sr=8-1', '9788180000000', '0', 0x30),
@@ -218,6 +218,17 @@ CREATE TABLE `book_language` (
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `book_setting`
+--
+
+CREATE TABLE `book_setting` (
+  `bookid` int(10) UNSIGNED NOT NULL,
+  `settingid` int(10) UNSIGNED NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `book_theme`
 --
 
@@ -240,168 +251,189 @@ CREATE TABLE `creators` (
   `gender` enum('male','female','transgender','other') CHARACTER SET utf8mb4 DEFAULT NULL,
   `wikidata_uri` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `worldcat_id_uri` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `link` varchar(500) COLLATE utf8mb4_unicode_ci DEFAULT NULL
+  `link` varchar(500) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `birth_place` int(10) UNSIGNED DEFAULT NULL,
+  `work_place` int(10) UNSIGNED DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `creators`
 --
 
-INSERT INTO `creators` (`creatorid`, `first_name`, `last_name`, `gender`, `wikidata_uri`, `worldcat_id_uri`, `link`) VALUES
-(50, 'Raghuveer', 'Chaudhari', 'male', 'https://www.wikidata.org/wiki/Q2769853', 'https://www.worldcat.org/identities/lccn-n81098217/', 'NULL '),
-(51, 'Chandrakanth', 'Bakshi', 'male', 'https://www.wikidata.org/wiki/Q2672515', 'https://www.worldcat.org/identities/lccn-n81090492/', 'NULL '),
-(52, 'Suresh', 'Joshi', 'male', 'https://www.wikidata.org/wiki/Q2775930', 'https://www.wikidata.org/wiki/Q2775930', 'NULL '),
-(53, 'Shreekant Vallabhdas', 'Shah', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q28444864', 'https://www.worldcat.org/identities/lccn-n83009267/', 'NULL '),
-(54, 'Madhusudan Vallabhdas ', 'Thaker', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2767865', '', 'NULL '),
-(55, 'Ravji Chhotalal ', 'Patel', 'male', 'https://www.wikidata.org/wiki/Q7296791', 'https://www.worldcat.org/identities/lccn-n84172450/', 'NULL '),
-(56, 'Radheshyam  Sitaram', 'Sharma', 'male', 'https://www.wikidata.org/wiki/Q25757665', 'https://www.worldcat.org/identities/lccn-n81080090/', 'NULL '),
-(57, 'Jayant', 'Gadit', 'male', 'https://www.wikidata.org/wiki/Q2757495', 'https://www.worldcat.org/identities/lccn-n85107979/', 'NULL '),
-(58, 'Saroj', 'Pathak', 'female', 'https://www.wikidata.org/wiki/Q2774815', 'https://www.worldcat.org/identities/lccn-n82047075/', 'NULL '),
-(59, 'Dhiruben', 'Patel', 'female', 'https://www.wikidata.org/wiki/Q2761804', 'https://www.worldcat.org/identities/lccn-n81126230/', 'NULL '),
-(60, 'Mukund', 'Parikh', 'male', 'https://www.wikidata.org/wiki/Q50377954', 'https://www.worldcat.org/identities/lccn-n82063459/', 'NULL '),
-(61, 'Labhashankar Jadavji', 'Thakar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2771338', 'https://www.worldcat.org/identities/lccn-n89101925', 'NULL '),
-(62, 'Harindra', 'Dave', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5657585', 'https://www.worldcat.org/identities/lccn-n82020348', 'NULL '),
-(63, 'Pinakin Natwarlal', 'Dave', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q37741462', 'https://www.worldcat.org/identities/lccn-n82012104', 'NULL '),
-(64, 'Manubhai', 'Pancholi', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2767900', 'https://www.worldcat.org/identities/lccn-n84028608', 'NULL '),
-(65, 'Jainendra', 'Kumar', 'male', 'https://www.worldcat.org/identities/lccn-n81062202', 'https://www.worldcat.org/identities/lccn-n81062202', 'NULL '),
-(66, 'Sachchidananda Hirananda Vatsyayan (Agyeya)', '', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2420084', 'https://www.worldcat.org/identities/lccn-n50016740', 'NULL '),
-(67, 'Ila Chandra', 'Joshi', 'male', 'NULL ', 'NULL ', 'https://umjb.in/gyankosh/ila-chandra-joshi'),
-(68, 'Amrit Lal', 'Nagar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q4748691', 'https://www.worldcat.org/identities/lccn-n81070906', 'NULL '),
-(69, 'Virendra Kumar', 'Jain', 'male', 'NULL ', 'NULL ', 'https://en.encyclopediaofjainism.com/index.php/SHRI_VIRENDRA_KUMAR_JAIN'),
-(70, 'Nirmal', 'Verma', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1993428', 'https://www.worldcat.org/identities/lccn-n81117487', 'NULL '),
-(71, 'Sarveshwar Dayal', 'Saxena', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7424792', 'https://www.worldcat.org/identities/lccn-n82166588', 'NULL '),
-(72, 'Laxmi Kant', 'Varma', 'male', 'NULL ', 'NULL ', 'http://hdl.handle.net/10603/182016'),
-(73, 'Mohan', 'Rakesh', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3631800', 'https://www.worldcat.org/identities/lccn-n83210776', 'NULL '),
-(74, 'Yashpal', '', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1148472', 'https://www.worldcat.org/identities/lccn-n82028425', 'NULL '),
-(75, 'Krishna', 'Sobti', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3631806', 'https://www.worldcat.org/identities/lccn-n80131730', 'NULL '),
-(76, 'Krishna', 'Agnihotri', 'female', 'NULL ', 'NULL ', 'NULL '),
-(77, 'Manu', 'Bhandari', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3632745', 'https://www.worldcat.org/identities/lccn-n79066456', 'NULL '),
-(78, 'Usha', 'Priyamvada', 'female', 'NULL ', 'NULL ', 'https://bharatdiscovery.org/india/%E0%A4%89%E0%A4%B7%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%82%E0%A4%B5%E0%A4%A6%E0%A4%BE#gsc.tab=0'),
-(79, 'Mira', 'Mahadevan', 'female', 'NULL ', 'NULL ', 'NULL '),
-(80, 'Sushila', 'Lalwani', 'female', 'NULL ', 'https://www.worldcat.org/identities/lccn-n88124029/', 'NULL '),
-(81, 'Lal', 'Pushp', 'male', 'NULL ', 'NULL ', 'https://www.sindhisangat.com/lal_rijhwani.php'),
-(82, 'Lakhmi', 'Khilani', 'male', 'NULL ', 'NULL ', 'https://www.sindhisangat.com/lakshmi-khilani.php'),
-(83, 'Mohan', 'Kalpana', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n82098333', 'NULL '),
-(84, 'Hari', 'Himthani', 'male', 'NULL ', 'NULL ', 'NULL '),
-(85, 'Ram', 'Panjwani', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82098894/', 'https://sindhiwiki.org/index.php?title=Prof._Ram_Panjwani&oldid=2465'),
-(86, 'A.J.', 'Uttam', 'male', 'NULL ', 'NULL ', 'http://ajuttam.com/'),
-(87, 'B.H.', 'Advani', 'male', 'https://www.wikidata.org/wiki/Q91477628', 'NULL ', 'NULL '),
-(88, 'Kota Shivarama', 'Karanth', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3536450', 'https://www.worldcat.org/identities/lccn-n82018097', 'NULL '),
-(89, 'Anil', 'Awachat', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q19803948', 'https://www.worldcat.org/identities/lccn-n82114024', 'https://anilawachat.wordpress.com/'),
-(90, 'Leela', 'Chitnis', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q464873', 'https://www.worldcat.org/identities/lccn-n82012282', 'NULL '),
-(91, 'Shankarrao', 'Kharat', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82001592/', 'https://www.firstpost.com/living/shankarrao-kharats-literary-legacy-giving-words-to-the-dalit-experience-in-maharashtra-4111981.html'),
-(92, 'Dagdu Maruti', 'Pawar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5208476', 'https://www.worldcat.org/identities/lccn-n84207830', 'NULL '),
-(93, 'Laxman', 'Mane', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6505160', 'https://www.worldcat.org/identities/lccn-n81143258/', 'NULL '),
-(94, 'Gopal', 'Godse', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n81119049', 'NULL '),
-(95, 'Arvind', 'Patwardhan', 'male', 'NULL ', 'NULL ', 'NULL '),
-(96, 'Waman Krushna', 'Chorghade', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q19813992', 'https://www.worldcat.org/identities/lccn-n79150462', 'NULL '),
-(97, 'Anil', 'Barve', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82111311/', 'NULL '),
-(98, 'Madhukar', 'Javadekar', 'male', 'NULL ', 'NULL ', 'NULL '),
-(99, 'Bhal', 'Patil', 'male', 'NULL ', 'NULL ', 'NULL '),
-(100, 'Namdev', 'Dhasal', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6961489', 'https://www.worldcat.org/identities/lccn-n82012204', 'NULL '),
-(101, 'Madhav', 'Kondivilkar', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n80025384', 'https://maharashtratimes.com/editorial/samwad/obituary-of-madhav-kondvilkar/articleshow/78205691.cms'),
-(102, 'Baburao', 'Bagul', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q4838108', 'https://www.worldcat.org/identities/lccn-n82039809', 'NULL '),
-(103, 'Shaila', 'Belles', 'female', 'NULL ', 'NULL ', 'NULL '),
-(104, 'Subhas', 'Bhende', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7631212', 'https://www.worldcat.org/identities/lccn-n82094568', 'NULL '),
-(105, 'Prabhakar', 'Pendharkar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q16018886', 'NULL ', 'NULL '),
-(106, 'Achyuat', 'Barve', 'male', 'NULL ', 'NULL ', 'NULL '),
-(107, 'G.P.', 'Pradhan', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82018112/', 'NULL '),
-(108, 'Anant', 'Manohar', 'male', 'NULL ', 'NULL ', 'NULL '),
-(109, 'Sushila', 'Gokhale-Patel', 'female', 'NULL ', 'NULL ', 'NULL '),
-(110, 'H.M.', 'Marathe', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q41635177', 'https://www.worldcat.org/identities/lccn-n81097843', 'NULL '),
-(111, 'Anand', 'Yadav', 'male', 'https://www.wikidata.org/wiki/Q55713', 'https://www.worldcat.org/identities/lccn-n82012295', 'NULL '),
-(112, 'G.N.', 'Dandekar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5584190', 'https://www.worldcat.org/identities/lccn-n84164142', 'NULL '),
-(113, 'Arun', 'Sadhu', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q55773', 'https://www.worldcat.org/identities/lccn-n85337709', 'NULL '),
-(114, 'Balchandra', 'Nemade', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3630368', 'https://www.worldcat.org/identities/lccn-n81033415', 'NULL '),
-(115, 'Raja', 'Rajwade', 'male', 'NULL ', 'NULL ', 'https://www.marathisrushti.com/articles/raja-rajwade/'),
-(116, 'C.T.', 'Khanolkar', 'male', 'NULL ', 'NULL ', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5101325'),
-(117, 'Vasant Abaji', 'Dahake', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7916321', 'https://www.worldcat.org/identities/lccn-n82111330', 'NULL '),
-(118, 'Purushottam Shivaram', 'Rege', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n89297450', 'NULL '),
-(119, 'Apa', 'Pant', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2777720', 'https://www.worldcat.org/identities/lccn-n50050211', 'NULL '),
-(120, 'Mulk Raj', 'Anand', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q732434', 'https://www.worldcat.org/identities/lccn-n80032712', 'NULL '),
-(121, 'Chaman', 'Nahal', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q16591805', 'https://www.worldcat.org/identities/lccn-n50041353', 'NULL '),
-(122, 'Anita', 'Desai', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q268495', 'https://www.worldcat.org/identities/lccn-n50001608', 'NULL '),
-(123, 'Bhagwan S.', 'Gidwani', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n89268827/', 'NULL '),
-(124, 'Jug', 'Suraiya', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6304764', 'NULL ', 'NULL '),
-(125, 'Nargis', 'Dalal', 'female', 'NULL ', 'NULL ', 'NULL '),
-(126, 'Ahmed M.', 'Akhtar', 'male', 'NULL ', 'NULL ', 'NULL '),
-(127, 'Shanta Rameshwar', 'Rao', 'female', 'NULL ', 'NULL ', 'NULL '),
-(128, 'Rama', 'Sarma', 'male', 'NULL ', 'NULL ', 'http://www.profmvramasarma.in/'),
-(129, 'Nayantara', 'Sahgal', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q448399', 'https://www.worldcat.org/identities/lccn-n79064591', 'NULL '),
-(130, 'Meenakshi', 'Mukherjee', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q17072916', 'http://worldcat.org/identities/lccn-n50004571/', 'NULL '),
-(131, 'Jayawant', 'Dalvi', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6168020', 'https://www.worldcat.org/identities/lccn-n82036124', 'NULL '),
-(132, 'Bhabhani Sen', 'Gupta', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n88000348/', 'NULL '),
-(133, 'Veena', 'Nagpal', 'female', 'NULL ', 'http://worldcat.org/identities/np-nagpal,%20veena$1942/', 'http://www.veenanagpal-author.com/'),
-(134, 'Dilip', 'Hiro', 'male', 'https://www.wikidata.org/wiki/Q5276802', 'https://www.worldcat.org/identities/lccn-n50034754', 'NULL '),
-(135, 'Timeri', 'Murari', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q16105804', 'https://www.worldcat.org/identities/lccn-n79059796', 'NULL '),
-(136, 'Kamala', 'Markandaya', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q542118', 'https://www.worldcat.org/identities/lccn-n50040712', 'https://www.britannica.com/biography/Kamala-Markandaya'),
-(137, 'Vinayaka Krishna', 'Gokak', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n50034348', 'NULL '),
-(138, 'Rajagopal', 'Parthasarthy', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7273910', 'https://www.worldcat.org/identities/lccn-n50050585', 'NULL '),
-(139, 'Padma', 'Hejmadi', 'female', 'NULL ', 'http://worldcat.org/identities/lccn-n86119313/', 'NULL '),
-(140, 'Buddhadeva', 'Bose', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q155114', 'https://www.worldcat.org/identities/lccn-n81114530', 'NULL '),
-(141, 'Krishan', 'Chander', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q575066', 'https://www.worldcat.org/identities/lccn-n79107930', 'NULL '),
-(142, 'Balachandra', 'Rajan', 'male', 'https://www.wikidata.org/wiki/Q4849737', 'https://www.worldcat.org/identities/lccn-n50054416', 'NULL '),
-(143, 'Krishnalal', 'Shridharani', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2728673', 'https://www.worldcat.org/identities/lccn-n89241976', 'NULL '),
-(144, 'Sasthibrata', 'Chakravarti', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7425810', 'https://www.worldcat.org/identities/lccn-n85098055', 'NULL '),
-(145, 'L.N.', 'Birla', 'male', 'NULL ', 'NULL ', 'NULL '),
-(146, 'V.K.', 'Subramaniam', 'male', 'NULL ', 'NULL ', 'NULL '),
-(147, 'Santha Rama ', 'Rau', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2790907', 'https://www.worldcat.org/identities/lccn-n50054431', 'NULL '),
-(148, 'Arun', 'Joshi', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q31319665', 'https://www.worldcat.org/identities/lccn-n50039273', 'NULL '),
-(149, 'Namita', 'Gokhale', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6961907', 'https://www.worldcat.org/identities/lccn-n84091542', 'NULL '),
-(150, 'Indira', 'Mahindra', 'female', 'NULL ', 'NULL ', 'NULL '),
-(151, 'Vasant', 'Shahane', 'male', 'NULL ', 'NULL ', 'NULL '),
-(152, 'A.K.', 'Srikumar', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n86806475/', 'NULL '),
-(153, 'Romen', 'Basu', 'male', 'NULL ', 'NULL ', 'NULL '),
-(154, 'Vinod', 'Meghani', 'male', 'NULL ', 'NULL ', 'NULL '),
-(155, 'Nagindas', 'Parekh', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2762081', 'https://www.worldcat.org/identities/lccn-n82109980', ''),
-(156, 'Prajaram', 'Raval', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2764927', 'https://www.worldcat.org/identities/lccn-n89267114', ''),
-(157, 'Anila', 'Dalal', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2722272', 'https://www.worldcat.org/identities/lccn-n89297080', ''),
-(158, 'Hundraj', 'Balwani', 'male', 'NULL ', 'NULL ', 'NULL '),
-(159, 'Nalini', 'Pant', 'female', 'NULL ', 'NULL ', 'NULL '),
-(160, 'Clinton', 'Seely', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5134067', 'https://www.worldcat.org/identities/lccn-n82019892', 'NULL '),
-(161, 'Mini', 'Krishnan', 'female', 'NULL ', 'NULL ', 'NULL '),
-(162, 'Vyankatesh', 'Madgulkar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3309785', 'https://www.worldcat.org/identities/lccn-n82043519', 'NULL '),
-(163, 'A.K.', 'Ramanujan', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3519662', 'https://www.worldcat.org/identities/lccn-n50054440', 'NULL '),
-(164, 'Khushwant', 'Singh', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1740716', 'https://www.worldcat.org/identities/lccn-n50024653', 'NULL '),
-(165, 'Pramode Keshav', 'Kale', 'male', 'NULL ', 'NULL ', 'NULL '),
-(166, 'Tridip', 'Suhrud', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q55587307', 'https://www.worldcat.org/identities/lccn-no99024407', 'NULL '),
-(167, 'Arjun', 'Dangle', 'male', 'NULL ', 'NULL ', 'NULL '),
-(168, 'Jerry', 'Pinto', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6184253', 'NULL ', 'NULL '),
-(169, 'A.K.', 'Kamat', 'male', 'NULL ', 'NULL ', 'NULL '),
-(170, 'Shrikant', 'Tambe', 'male', 'NULL ', 'NULL ', 'NULL '),
-(171, 'Santosh', 'Bhoomkar', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n2005212247/', 'NULL '),
-(172, 'Sneha', 'Mishra', 'female', 'NULL ', 'NULL ', 'NULL '),
-(173, 'Sudhakar', 'Marathe', 'male', 'NULL ', 'NULL ', 'NULL '),
-(174, 'Bhagwandas', 'Verma', 'male', 'NULL ', 'NULL ', 'NULL '),
-(175, 'Vandana Alase', 'Hazra', 'female', 'NULL ', 'NULL ', 'NULL '),
-(176, '	Usha', 'Sheth', 'female', 'NULL ', 'NULL ', 'NULL '),
-(177, 'Vaman Dattatraya', 'Bendre', 'male', 'NULL ', 'NULL ', 'NULL '),
-(178, 'Kishorimohan', 'Sharma', 'male', 'NULL ', 'NULL ', 'NULL '),
-(179, 'Ajeet', 'Singh', 'male', 'NULL ', 'NULL ', 'NULL '),
-(180, 'Musharraf Alam', 'Jauki', 'male', 'NULL ', 'NULL ', 'NULL '),
-(181, 'Cheershree', 'Indrasingh', 'female', 'https://www.wikidata.org/wiki/Q56696092', 'https://www.worldcat.org/identities/lccn-no2003100520/', 'NULL '),
-(182, 'Tirumala', 'Ramachandra', 'female', 'https://www.wikidata.org/wiki/Q15702980', 'NULL ', 'NULL '),
-(183, 'Padma Ramachandra', 'Sarma', 'female', 'NULL ', 'NULL ', 'NULL '),
-(184, 'Anupama Dutta', 'Saikia', 'female', 'NULL ', 'NULL ', 'NULL '),
-(185, 'Vishram', 'Gupte', 'male', 'NULL ', 'NULL ', 'NULL '),
-(186, 'Vasudha', 'Inamdar', 'female', 'NULL ', 'NULL ', 'NULL '),
-(187, 'Kanta', 'Bharati', 'other', 'NULL ', 'NULL ', 'NULL '),
-(188, 'Rajni', 'Panikar', 'male', 'NULL ', 'NULL ', 'NULL '),
-(189, 'Sharda', 'Mishra', 'other', 'NULL ', 'NULL ', 'NULL '),
-(190, 'Bindu', 'Sinha', 'female', 'NULL ', 'NULL ', 'NULL '),
-(191, 'Ishwar', 'Chander', 'other', 'NULL ', 'NULL ', 'NULL '),
-(192, 'Sampat', 'Jadhav', 'male', 'NULL ', 'NULL ', 'NULL '),
-(193, 'G.V', 'Behere', 'male', 'NULL ', 'NULL ', 'NULL '),
-(194, 'Anil', 'Barwe', 'male', 'NULL ', 'NULL ', 'NULL '),
-(195, 'Nishi', 'Khanolkar', 'female', 'NULL ', 'NULL ', 'NULL '),
-(196, 'S.P.', 'Mani', 'other', 'NULL ', 'NULL ', 'NULL '),
-(197, 'S.B', 'Capoor', 'other', 'NULL ', 'NULL ', 'NULL '),
-(198, 'Amal', 'Ghose', 'female', 'NULL ', 'http://worldcat.org/identities/lccn-n50035097/', 'NULL '),
-(199, 'A.D.', 'Gorwala', 'other', 'NULL ', 'NULL ', 'NULL '),
-(200, 'P.', 'Thomas', 'male', 'NULL ', 'NULL ', 'NULL '),
-(201, 'T.C.', 'Ghai', 'other', 'NULL ', 'NULL ', 'NULL '),
-(202, 'K.V.', 'Subbaram', 'other', 'NULL ', 'NULL ', 'NULL '),
-(203, 'P.V.', 'Mangawedhekar', 'other', 'NULL ', 'NULL ', 'NULL ');
+INSERT INTO `creators` (`creatorid`, `first_name`, `last_name`, `gender`, `wikidata_uri`, `worldcat_id_uri`, `link`, `birth_place`, `work_place`) VALUES
+(50, 'Raghuveer', 'Chaudhari', 'male', 'https://www.wikidata.org/wiki/Q2769853', 'https://www.worldcat.org/identities/lccn-n81098217/', 'NULL ', NULL, NULL),
+(51, 'Chandrakanth', 'Bakshi', 'male', 'https://www.wikidata.org/wiki/Q2672515', 'https://www.worldcat.org/identities/lccn-n81090492/', 'NULL ', NULL, NULL),
+(52, 'Suresh', 'Joshi', 'male', 'https://www.wikidata.org/wiki/Q2775930', 'https://www.wikidata.org/wiki/Q2775930', 'NULL ', NULL, NULL),
+(53, 'Shreekant Vallabhdas', 'Shah', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q28444864', 'https://www.worldcat.org/identities/lccn-n83009267/', 'NULL ', NULL, NULL),
+(54, 'Madhusudan Vallabhdas ', 'Thaker', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2767865', '', 'NULL ', NULL, NULL),
+(55, 'Ravji Chhotalal ', 'Patel', 'male', 'https://www.wikidata.org/wiki/Q7296791', 'https://www.worldcat.org/identities/lccn-n84172450/', 'NULL ', NULL, NULL),
+(56, 'Radheshyam  Sitaram', 'Sharma', 'male', 'https://www.wikidata.org/wiki/Q25757665', 'https://www.worldcat.org/identities/lccn-n81080090/', 'NULL ', NULL, NULL),
+(57, 'Jayant', 'Gadit', 'male', 'https://www.wikidata.org/wiki/Q2757495', 'https://www.worldcat.org/identities/lccn-n85107979/', 'NULL ', NULL, NULL),
+(58, 'Saroj', 'Pathak', 'female', 'https://www.wikidata.org/wiki/Q2774815', 'https://www.worldcat.org/identities/lccn-n82047075/', 'NULL ', NULL, NULL),
+(59, 'Dhiruben', 'Patel', 'female', 'https://www.wikidata.org/wiki/Q2761804', 'https://www.worldcat.org/identities/lccn-n81126230/', 'NULL ', NULL, NULL),
+(60, 'Mukund', 'Parikh', 'male', 'https://www.wikidata.org/wiki/Q50377954', 'https://www.worldcat.org/identities/lccn-n82063459/', 'NULL ', NULL, NULL),
+(61, 'Labhashankar Jadavji', 'Thakar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2771338', 'https://www.worldcat.org/identities/lccn-n89101925', 'NULL ', NULL, NULL),
+(62, 'Harindra', 'Dave', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5657585', 'https://www.worldcat.org/identities/lccn-n82020348', 'NULL ', NULL, NULL),
+(63, 'Pinakin Natwarlal', 'Dave', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q37741462', 'https://www.worldcat.org/identities/lccn-n82012104', 'NULL ', NULL, NULL),
+(64, 'Manubhai', 'Pancholi', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2767900', 'https://www.worldcat.org/identities/lccn-n84028608', 'NULL ', NULL, NULL),
+(65, 'Jainendra', 'Kumar', 'male', 'https://www.worldcat.org/identities/lccn-n81062202', 'https://www.worldcat.org/identities/lccn-n81062202', 'NULL ', NULL, NULL),
+(66, 'Sachchidananda Hirananda Vatsyayan (Agyeya)', '', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2420084', 'https://www.worldcat.org/identities/lccn-n50016740', 'NULL ', NULL, NULL),
+(67, 'Ila Chandra', 'Joshi', 'male', 'NULL ', 'NULL ', 'https://umjb.in/gyankosh/ila-chandra-joshi', NULL, NULL),
+(68, 'Amrit Lal', 'Nagar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q4748691', 'https://www.worldcat.org/identities/lccn-n81070906', 'NULL ', NULL, NULL),
+(69, 'Virendra Kumar', 'Jain', 'male', 'NULL ', 'NULL ', 'https://en.encyclopediaofjainism.com/index.php/SHRI_VIRENDRA_KUMAR_JAIN', NULL, NULL),
+(70, 'Nirmal', 'Verma', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1993428', 'https://www.worldcat.org/identities/lccn-n81117487', 'NULL ', NULL, NULL),
+(71, 'Sarveshwar Dayal', 'Saxena', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7424792', 'https://www.worldcat.org/identities/lccn-n82166588', 'NULL ', NULL, NULL),
+(72, 'Laxmi Kant', 'Varma', 'male', 'NULL ', 'NULL ', 'http://hdl.handle.net/10603/182016', NULL, NULL),
+(73, 'Mohan', 'Rakesh', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3631800', 'https://www.worldcat.org/identities/lccn-n83210776', 'NULL ', NULL, NULL),
+(74, 'Yashpal', '', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1148472', 'https://www.worldcat.org/identities/lccn-n82028425', 'NULL ', NULL, NULL),
+(75, 'Krishna', 'Sobti', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3631806', 'https://www.worldcat.org/identities/lccn-n80131730', 'NULL ', NULL, NULL),
+(76, 'Krishna', 'Agnihotri', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(77, 'Manu', 'Bhandari', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3632745', 'https://www.worldcat.org/identities/lccn-n79066456', 'NULL ', NULL, NULL),
+(78, 'Usha', 'Priyamvada', 'female', 'NULL ', 'NULL ', 'https://bharatdiscovery.org/india/%E0%A4%89%E0%A4%B7%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%82%E0%A4%B5%E0%A4%A6%E0%A4%BE#gsc.tab=0', NULL, NULL),
+(79, 'Mira', 'Mahadevan', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(80, 'Sushila', 'Lalwani', 'female', 'NULL ', 'https://www.worldcat.org/identities/lccn-n88124029/', 'NULL ', NULL, NULL),
+(81, 'Lal', 'Pushp', 'male', 'NULL ', 'NULL ', 'https://www.sindhisangat.com/lal_rijhwani.php', NULL, NULL),
+(82, 'Lakhmi', 'Khilani', 'male', 'NULL ', 'NULL ', 'https://www.sindhisangat.com/lakshmi-khilani.php', NULL, NULL),
+(83, 'Mohan', 'Kalpana', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n82098333', 'NULL ', NULL, NULL),
+(84, 'Hari', 'Himthani', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(85, 'Ram', 'Panjwani', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82098894/', 'https://sindhiwiki.org/index.php?title=Prof._Ram_Panjwani&oldid=2465', NULL, NULL),
+(86, 'A.J.', 'Uttam', 'male', 'NULL ', 'NULL ', 'http://ajuttam.com/', NULL, NULL),
+(87, 'B.H.', 'Advani', 'male', 'https://www.wikidata.org/wiki/Q91477628', 'NULL ', 'NULL ', NULL, NULL),
+(88, 'Kota Shivarama', 'Karanth', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3536450', 'https://www.worldcat.org/identities/lccn-n82018097', 'NULL ', NULL, NULL),
+(89, 'Anil', 'Awachat', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q19803948', 'https://www.worldcat.org/identities/lccn-n82114024', 'https://anilawachat.wordpress.com/', NULL, NULL),
+(90, 'Leela', 'Chitnis', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q464873', 'https://www.worldcat.org/identities/lccn-n82012282', 'NULL ', NULL, NULL),
+(91, 'Shankarrao', 'Kharat', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82001592/', 'https://www.firstpost.com/living/shankarrao-kharats-literary-legacy-giving-words-to-the-dalit-experience-in-maharashtra-4111981.html', NULL, NULL),
+(92, 'Dagdu Maruti', 'Pawar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5208476', 'https://www.worldcat.org/identities/lccn-n84207830', 'NULL ', NULL, NULL),
+(93, 'Laxman', 'Mane', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6505160', 'https://www.worldcat.org/identities/lccn-n81143258/', 'NULL ', NULL, NULL),
+(94, 'Gopal', 'Godse', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n81119049', 'NULL ', NULL, NULL),
+(95, 'Arvind', 'Patwardhan', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(96, 'Waman Krushna', 'Chorghade', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q19813992', 'https://www.worldcat.org/identities/lccn-n79150462', 'NULL ', NULL, NULL),
+(97, 'Anil', 'Barve', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82111311/', 'NULL ', NULL, NULL),
+(98, 'Madhukar', 'Javadekar', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(99, 'Bhal', 'Patil', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(100, 'Namdev', 'Dhasal', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6961489', 'https://www.worldcat.org/identities/lccn-n82012204', 'NULL ', NULL, NULL),
+(101, 'Madhav', 'Kondivilkar', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n80025384', 'https://maharashtratimes.com/editorial/samwad/obituary-of-madhav-kondvilkar/articleshow/78205691.cms', NULL, NULL),
+(102, 'Baburao', 'Bagul', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q4838108', 'https://www.worldcat.org/identities/lccn-n82039809', 'NULL ', NULL, NULL),
+(103, 'Shaila', 'Belles', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(104, 'Subhas', 'Bhende', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7631212', 'https://www.worldcat.org/identities/lccn-n82094568', 'NULL ', NULL, NULL),
+(105, 'Prabhakar', 'Pendharkar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q16018886', 'NULL ', 'NULL ', NULL, NULL),
+(106, 'Achyuat', 'Barve', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(107, 'G.P.', 'Pradhan', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n82018112/', 'NULL ', NULL, NULL),
+(108, 'Anant', 'Manohar', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(109, 'Sushila', 'Gokhale-Patel', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(110, 'H.M.', 'Marathe', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q41635177', 'https://www.worldcat.org/identities/lccn-n81097843', 'NULL ', NULL, NULL),
+(111, 'Anand', 'Yadav', 'male', 'https://www.wikidata.org/wiki/Q55713', 'https://www.worldcat.org/identities/lccn-n82012295', 'NULL ', NULL, NULL),
+(112, 'G.N.', 'Dandekar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5584190', 'https://www.worldcat.org/identities/lccn-n84164142', 'NULL ', NULL, NULL),
+(113, 'Arun', 'Sadhu', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q55773', 'https://www.worldcat.org/identities/lccn-n85337709', 'NULL ', NULL, NULL),
+(114, 'Balchandra', 'Nemade', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3630368', 'https://www.worldcat.org/identities/lccn-n81033415', 'NULL ', NULL, NULL),
+(115, 'Raja', 'Rajwade', 'male', 'NULL ', 'NULL ', 'https://www.marathisrushti.com/articles/raja-rajwade/', NULL, NULL),
+(116, 'C.T.', 'Khanolkar', 'male', 'NULL ', 'NULL ', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5101325', NULL, NULL),
+(117, 'Vasant Abaji', 'Dahake', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7916321', 'https://www.worldcat.org/identities/lccn-n82111330', 'NULL ', NULL, NULL),
+(118, 'Purushottam Shivaram', 'Rege', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n89297450', 'NULL ', NULL, NULL),
+(119, 'Apa', 'Pant', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2777720', 'https://www.worldcat.org/identities/lccn-n50050211', 'NULL ', NULL, NULL),
+(120, 'Mulk Raj', 'Anand', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q732434', 'https://www.worldcat.org/identities/lccn-n80032712', 'NULL ', NULL, NULL),
+(121, 'Chaman', 'Nahal', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q16591805', 'https://www.worldcat.org/identities/lccn-n50041353', 'NULL ', NULL, NULL),
+(122, 'Anita', 'Desai', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q268495', 'https://www.worldcat.org/identities/lccn-n50001608', 'NULL ', NULL, NULL),
+(123, 'Bhagwan S.', 'Gidwani', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n89268827/', 'NULL ', NULL, NULL),
+(124, 'Jug', 'Suraiya', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6304764', 'NULL ', 'NULL ', NULL, NULL),
+(125, 'Nargis', 'Dalal', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(126, 'Ahmed M.', 'Akhtar', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(127, 'Shanta Rameshwar', 'Rao', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(128, 'Rama', 'Sarma', 'male', 'NULL ', 'NULL ', 'http://www.profmvramasarma.in/', NULL, NULL),
+(129, 'Nayantara', 'Sahgal', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q448399', 'https://www.worldcat.org/identities/lccn-n79064591', 'NULL ', NULL, NULL),
+(130, 'Meenakshi', 'Mukherjee', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q17072916', 'http://worldcat.org/identities/lccn-n50004571/', 'NULL ', NULL, NULL),
+(131, 'Jayawant', 'Dalvi', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6168020', 'https://www.worldcat.org/identities/lccn-n82036124', 'NULL ', NULL, NULL),
+(132, 'Bhabhani Sen', 'Gupta', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n88000348/', 'NULL ', NULL, NULL),
+(133, 'Veena', 'Nagpal', 'female', 'NULL ', 'http://worldcat.org/identities/np-nagpal,%20veena$1942/', 'http://www.veenanagpal-author.com/', NULL, NULL),
+(134, 'Dilip', 'Hiro', 'male', 'https://www.wikidata.org/wiki/Q5276802', 'https://www.worldcat.org/identities/lccn-n50034754', 'NULL ', NULL, NULL),
+(135, 'Timeri', 'Murari', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q16105804', 'https://www.worldcat.org/identities/lccn-n79059796', 'NULL ', NULL, NULL),
+(136, 'Kamala', 'Markandaya', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q542118', 'https://www.worldcat.org/identities/lccn-n50040712', 'https://www.britannica.com/biography/Kamala-Markandaya', NULL, NULL),
+(137, 'Vinayaka Krishna', 'Gokak', 'male', 'NULL ', 'https://www.worldcat.org/identities/lccn-n50034348', 'NULL ', NULL, NULL),
+(138, 'Rajagopal', 'Parthasarthy', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7273910', 'https://www.worldcat.org/identities/lccn-n50050585', 'NULL ', NULL, NULL),
+(139, 'Padma', 'Hejmadi', 'female', 'NULL ', 'http://worldcat.org/identities/lccn-n86119313/', 'NULL ', NULL, NULL),
+(140, 'Buddhadeva', 'Bose', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q155114', 'https://www.worldcat.org/identities/lccn-n81114530', 'NULL ', NULL, NULL),
+(141, 'Krishan', 'Chander', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q575066', 'https://www.worldcat.org/identities/lccn-n79107930', 'NULL ', NULL, NULL),
+(142, 'Balachandra', 'Rajan', 'male', 'https://www.wikidata.org/wiki/Q4849737', 'https://www.worldcat.org/identities/lccn-n50054416', 'NULL ', NULL, NULL),
+(143, 'Krishnalal', 'Shridharani', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2728673', 'https://www.worldcat.org/identities/lccn-n89241976', 'NULL ', NULL, NULL),
+(144, 'Sasthibrata', 'Chakravarti', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7425810', 'https://www.worldcat.org/identities/lccn-n85098055', 'NULL ', NULL, NULL),
+(145, 'L.N.', 'Birla', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(146, 'V.K.', 'Subramaniam', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(147, 'Santha Rama ', 'Rau', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2790907', 'https://www.worldcat.org/identities/lccn-n50054431', 'NULL ', NULL, NULL),
+(148, 'Arun', 'Joshi', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q31319665', 'https://www.worldcat.org/identities/lccn-n50039273', 'NULL ', NULL, NULL),
+(149, 'Namita', 'Gokhale', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6961907', 'https://www.worldcat.org/identities/lccn-n84091542', 'NULL ', NULL, NULL),
+(150, 'Indira', 'Mahindra', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(151, 'Vasant', 'Shahane', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(152, 'A.K.', 'Srikumar', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n86806475/', 'NULL ', NULL, NULL),
+(153, 'Romen', 'Basu', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(154, 'Vinod', 'Meghani', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(155, 'Nagindas', 'Parekh', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2762081', 'https://www.worldcat.org/identities/lccn-n82109980', '', NULL, NULL),
+(156, 'Prajaram', 'Raval', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2764927', 'https://www.worldcat.org/identities/lccn-n89267114', '', NULL, NULL),
+(157, 'Anila', 'Dalal', 'female', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2722272', 'https://www.worldcat.org/identities/lccn-n89297080', '', NULL, NULL),
+(158, 'Hundraj', 'Balwani', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(159, 'Nalini', 'Pant', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(160, 'Clinton', 'Seely', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5134067', 'https://www.worldcat.org/identities/lccn-n82019892', 'NULL ', NULL, NULL),
+(161, 'Mini', 'Krishnan', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(162, 'Vyankatesh', 'Madgulkar', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3309785', 'https://www.worldcat.org/identities/lccn-n82043519', 'NULL ', NULL, NULL),
+(163, 'A.K.', 'Ramanujan', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3519662', 'https://www.worldcat.org/identities/lccn-n50054440', 'NULL ', NULL, NULL),
+(164, 'Khushwant', 'Singh', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1740716', 'https://www.worldcat.org/identities/lccn-n50024653', 'NULL ', NULL, NULL),
+(165, 'Pramode Keshav', 'Kale', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(166, 'Tridip', 'Suhrud', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q55587307', 'https://www.worldcat.org/identities/lccn-no99024407', 'NULL ', NULL, NULL),
+(167, 'Arjun', 'Dangle', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(168, 'Jerry', 'Pinto', 'male', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6184253', 'NULL ', 'NULL ', NULL, NULL),
+(169, 'A.K.', 'Kamat', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(170, 'Shrikant', 'Tambe', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(171, 'Santosh', 'Bhoomkar', 'male', 'NULL ', 'http://worldcat.org/identities/lccn-n2005212247/', 'NULL ', NULL, NULL),
+(172, 'Sneha', 'Mishra', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(173, 'Sudhakar', 'Marathe', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(174, 'Bhagwandas', 'Verma', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(175, 'Vandana Alase', 'Hazra', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(176, '	Usha', 'Sheth', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(177, 'Vaman Dattatraya', 'Bendre', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(178, 'Kishorimohan', 'Sharma', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(179, 'Ajeet', 'Singh', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(180, 'Musharraf Alam', 'Jauki', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(181, 'Cheershree', 'Indrasingh', 'female', 'https://www.wikidata.org/wiki/Q56696092', 'https://www.worldcat.org/identities/lccn-no2003100520/', 'NULL ', NULL, NULL),
+(182, 'Tirumala', 'Ramachandra', 'female', 'https://www.wikidata.org/wiki/Q15702980', 'NULL ', 'NULL ', NULL, NULL),
+(183, 'Padma Ramachandra', 'Sarma', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(184, 'Anupama Dutta', 'Saikia', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(185, 'Vishram', 'Gupte', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(186, 'Vasudha', 'Inamdar', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(187, 'Kanta', 'Bharati', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(188, 'Rajni', 'Panikar', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(189, 'Sharda', 'Mishra', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(190, 'Bindu', 'Sinha', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(191, 'Ishwar', 'Chander', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(192, 'Sampat', 'Jadhav', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(193, 'G.V', 'Behere', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(194, 'Anil', 'Barwe', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(195, 'Nishi', 'Khanolkar', 'female', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(196, 'S.P.', 'Mani', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(197, 'S.B', 'Capoor', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(198, 'Amal', 'Ghose', 'female', 'NULL ', 'http://worldcat.org/identities/lccn-n50035097/', 'NULL ', NULL, NULL),
+(199, 'A.D.', 'Gorwala', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(200, 'P.', 'Thomas', 'male', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(201, 'T.C.', 'Ghai', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(202, 'K.V.', 'Subbaram', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL),
+(203, 'P.V.', 'Mangawedhekar', 'other', 'NULL ', 'NULL ', 'NULL ', NULL, NULL);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `creator_movement`
+--
+
+CREATE TABLE `creator_movement` (
+  `creatorid` int(10) UNSIGNED NOT NULL,
+  `movementid` int(10) UNSIGNED NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `creator_movement`
+--
+
+INSERT INTO `creator_movement` (`creatorid`, `movementid`) VALUES
+(54, 7),
+(70, 2);
 
 -- --------------------------------------------------------
 
@@ -426,13 +458,18 @@ CREATE TABLE `languages` (
 --
 
 INSERT INTO `languages` (`languageid`, `name`, `name_alternative`, `system`, `scripts`, `iso1`, `iso2`, `iso3`, `wikidata_uri`) VALUES
-(1, 'glish', 'English', 'written', 'Roman', 'en', 'eng', 'eng', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1860'),
+(1, 'English', 'English', 'written', 'Roman', 'en', 'eng', 'eng', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1860'),
 (2, 'ગુજરાતી', 'Gujarati', 'written', 'devnagari, gujarati, arabic and persian  ', 'gu', 'guj', 'guj', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5137'),
 (3, 'हिन्दी,', 'Hindi', 'written', 'devnagiri ', 'hi', 'hin', 'hin', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1568'),
 (4, 'मराठी', 'Marathi', 'written', 'balbodh version of the devnagiri ', 'mr', 'mar', 'mar', 'https://www.wikidata.org/wiki/Special:EntityPage/Q396316'),
 (5, 'বাংলা ', 'Bangla or Bengali', 'written', 'Bengali ', 'bn', 'ben', 'ben', 'https://www.wikidata.org/wiki/Special:EntityPage/Q9610'),
 (6, 'سنڌي‎', 'Sindhi', 'written', 'Arabic, Persian, Gujarati, Devnagiri, Khudabadi', 'sd', 'snd', 'snd', 'https://www.wikidata.org/wiki/Special:EntityPage/Q33997'),
-(7, 'ಕನ್ನಡ', 'Kannada', 'written', 'Kannada ', 'kn', 'kan', 'kan', 'https://www.wikidata.org/wiki/Special:EntityPage/Q33673');
+(7, 'ಕನ್ನಡ', 'Kannada', 'written', 'Kannada ', 'kn', 'kan', 'kan', 'https://www.wikidata.org/wiki/Special:EntityPage/Q33673'),
+(8, 'ਪੰਜਾਬੀ', 'Punjabi', 'written', 'Gurmukhi,Shahmukhi', 'pn', 'pan', 'pnb', 'https://www.wikidata.org/wiki/Special:EntityPage/Q58635'),
+(9, 'ଓଡ଼ିଆ', 'Odia', 'written', 'Odia', 'or', 'ori', 'ori', 'https://www.wikidata.org/wiki/Special:EntityPage/Q33810'),
+(10, 'অসমীয়া', 'Assamese', 'written', 'Assamese', 'as', 'asm', 'asm', 'https://www.wikidata.org/wiki/Special:EntityPage/Q29401'),
+(11, 'اُردُو', 'Urdu', 'written', 'Nastaliq', 'ur', 'urd', 'urd', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1617'),
+(12, 'తెలుగు', 'Telugu', 'written', 'Telugu', 'te', 'tel', 'tel', 'https://www.wikidata.org/wiki/Special:EntityPage/Q8097');
 
 -- --------------------------------------------------------
 
@@ -451,7 +488,7 @@ CREATE TABLE `locations` (
 --
 
 INSERT INTO `locations` (`locationid`, `name`, `wikidata_uri`) VALUES
-(1, 'mbai', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1156'),
+(1, 'Mumbai', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1156'),
 (2, 'Delhi', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1353'),
 (3, 'Rajasthan', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1437'),
 (4, 'Shimla', 'https://www.wikidata.org/wiki/Special:EntityPage/Q83786'),
@@ -473,12 +510,25 @@ CREATE TABLE `movements` (
   `movementid` mediumint(6) UNSIGNED NOT NULL,
   `name` varchar(100) CHARACTER SET utf8mb4 DEFAULT NULL,
   `alternative_name` varchar(200) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `start_year` smallint(4) DEFAULT NULL,
-  `end_year` smallint(4) DEFAULT NULL,
+  `start_year` varchar(4) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `end_year` varchar(4) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `context` mediumtext CHARACTER SET utf8mb4,
   `wikidata_uri` varchar(25) CHARACTER SET utf8mb4 DEFAULT NULL,
   `link` varchar(250) CHARACTER SET utf8mb4 DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `movements`
+--
+
+INSERT INTO `movements` (`movementid`, `name`, `alternative_name`, `start_year`, `end_year`, `context`, `wikidata_uri`, `link`) VALUES
+(1, 'Marathi Renaissance', 'Marathi Renaissance', NULL, NULL, NULL, NULL, NULL),
+(2, 'नयी कहानी ', 'Nayi Kahani Movement', '1950', '1970', NULL, NULL, NULL),
+(3, 'Progressive', 'Progressive Writers', NULL, NULL, NULL, NULL, NULL),
+(4, 'मराठी ग्रामीण साहित्य ', 'Marathi Grameen Sahitya', NULL, NULL, NULL, NULL, NULL),
+(5, 'देशीवाद ', 'Deshivad', NULL, NULL, NULL, NULL, NULL),
+(6, 'ನವೋದಯ', 'Navodaya', NULL, NULL, NULL, NULL, NULL),
+(7, 'રે મઠ', 'Re School of Gujarati Literature', NULL, NULL, 'A modernist tradition of Gujarati literature under the influence of existentialism challenging traditional literature styles.', NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -492,6 +542,19 @@ CREATE TABLE `movement_language` (
   `context` mediumtext CHARACTER SET utf8mb4
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+--
+-- Dumping data for table `movement_language`
+--
+
+INSERT INTO `movement_language` (`movementid`, `languageid`, `context`) VALUES
+(1, 4, NULL),
+(2, 3, NULL),
+(3, 3, NULL),
+(3, 6, NULL),
+(4, 4, NULL),
+(5, 4, 'Literature about rural life'),
+(6, 7, 'Period of Modern Kannada Literature');
+
 -- --------------------------------------------------------
 
 --
@@ -502,9 +565,86 @@ CREATE TABLE `publishers` (
   `publisherid` mediumint(6) UNSIGNED NOT NULL,
   `name` varchar(100) CHARACTER SET utf8mb4 DEFAULT NULL,
   `location` varchar(50) CHARACTER SET utf8mb4 DEFAULT NULL,
+  `ownership` varchar(20) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `year_founded` smallint(4) DEFAULT NULL,
   `year_closed` smallint(4) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `publishers`
+--
+
+INSERT INTO `publishers` (`publisherid`, `name`, `location`, `ownership`, `year_founded`, `year_closed`) VALUES
+(7, 'ngdwar Prakashan', NULL, 'private', NULL, NULL),
+(8, 'Navbharat Sahitya Mandir', NULL, 'private', NULL, NULL),
+(9, 'ADARSH PRAKASHAN', NULL, 'private', NULL, NULL),
+(10, 'ARUNODAY PRAKASHAN', NULL, 'private', NULL, NULL),
+(11, 'ભગતભાઈ ભુરાલાલ શેઠ (Bhagatbhai Bhuralal Sheth)', NULL, NULL, NULL, NULL),
+(12, 'Rekha Prakashan', NULL, 'private', NULL, NULL),
+(13, 'R.R. Sheth', NULL, 'private', NULL, NULL),
+(14, 'GUJARATI BOOKS', NULL, NULL, NULL, NULL),
+(15, 'Gurjar Granthratna Karyalaya', NULL, NULL, NULL, NULL),
+(16, 'Parshwa', NULL, NULL, NULL, NULL),
+(17, 'Pūrvodaya Prakāśana', NULL, NULL, NULL, NULL),
+(18, 'Lokbharti Prakashan', NULL, NULL, NULL, NULL),
+(19, 'Rajpal & Sons', NULL, NULL, NULL, NULL),
+(20, 'भारतीय ज्ञानपीठ (Bharatiya Gyaanpeeth)', NULL, NULL, NULL, NULL),
+(21, 'Vani Prakashan', NULL, NULL, NULL, NULL),
+(22, 'Rajkamal Prakashan', NULL, NULL, NULL, NULL),
+(23, 'Indraprastha Prakāśana', NULL, NULL, NULL, NULL),
+(24, 'Radhakrishna Prakashan', NULL, NULL, NULL, NULL),
+(25, 'Sapna Book House', NULL, NULL, NULL, NULL),
+(26, 'Shrividya Prakashan', NULL, NULL, NULL, NULL),
+(27, 'Continental Prakashan', NULL, NULL, NULL, NULL),
+(28, 'Granthali', NULL, NULL, NULL, NULL),
+(29, 'Urja Prakashan', NULL, NULL, NULL, NULL),
+(30, 'Shabd Publication', NULL, NULL, NULL, NULL),
+(31, 'Akshar Prakashan', NULL, NULL, NULL, NULL),
+(32, 'Dilipraj Prakashan', NULL, NULL, NULL, NULL),
+(33, 'Mouj Prakashan Gruh', NULL, NULL, NULL, NULL),
+(34, 'Majestic Publising House', NULL, NULL, NULL, NULL),
+(35, 'H.V. Mote Prakashan', NULL, NULL, NULL, NULL),
+(36, 'Mehta Publishing House', NULL, NULL, NULL, NULL),
+(37, 'Mrunmayi Prakashan', NULL, NULL, NULL, NULL),
+(38, 'Popular Prakashan Pvt Ltd', NULL, NULL, NULL, NULL),
+(39, 'Majestic Publishing House', NULL, NULL, NULL, NULL),
+(40, 'Lokwadgmay grah', NULL, NULL, NULL, NULL),
+(41, 'Padmagandha Prakashan', NULL, NULL, NULL, NULL),
+(42, 'MOUJ PRAKASHAN', NULL, NULL, NULL, NULL),
+(43, 'Arnold-Heinemann ', NULL, NULL, NULL, NULL),
+(44, 'Sterling', NULL, NULL, NULL, NULL),
+(45, 'Harper Collins', NULL, NULL, NULL, NULL),
+(46, 'Orient Paperbacks', NULL, NULL, NULL, NULL),
+(47, 'Rupa Publications', NULL, NULL, NULL, NULL),
+(48, 'Writers Workshop', NULL, NULL, NULL, NULL),
+(49, 'Arnold-Heinemann Publishers', NULL, NULL, NULL, NULL),
+(50, 'Ahmed Mohideen', NULL, NULL, NULL, NULL),
+(51, 'P.K. Books', NULL, NULL, NULL, NULL),
+(52, 'Penguin India', NULL, NULL, NULL, NULL),
+(53, 'Sterling Publishers', NULL, NULL, NULL, NULL),
+(54, 'Orient Blackswan Private Limited ', NULL, NULL, NULL, NULL),
+(55, 'Jaico Publishing', NULL, NULL, NULL, NULL),
+(56, 'Passeggiata Pr', NULL, NULL, NULL, NULL),
+(57, 'Macmillan', NULL, NULL, NULL, NULL),
+(58, 'Penguin Books', NULL, NULL, NULL, NULL),
+(59, 'South Asia Books', NULL, NULL, NULL, NULL),
+(60, 'Bharatiya Vidya Bhavan', NULL, NULL, NULL, NULL),
+(61, 'Sterling Publishers Pvt.Ltd', NULL, NULL, NULL, NULL),
+(62, 'Hind Pocket Books', NULL, NULL, NULL, NULL),
+(63, 'Sterling  ', NULL, NULL, NULL, NULL),
+(64, 'Greenwood Press ', NULL, NULL, NULL, NULL),
+(65, 'Asia Publishing House', NULL, NULL, NULL, NULL),
+(66, 'Education Supplies Depot', NULL, NULL, NULL, NULL),
+(67, 'John Day Company, Incorporated', NULL, NULL, NULL, NULL),
+(68, 'W. W. Norton & Company', NULL, NULL, NULL, NULL),
+(69, 'Harper & Row', NULL, NULL, NULL, NULL),
+(70, 'Hind Kitabs Limited', NULL, NULL, NULL, NULL),
+(71, 'Diparun Bros.', NULL, NULL, NULL, NULL),
+(72, 'Not Avail', NULL, NULL, NULL, NULL),
+(73, 'Ridge Road', NULL, NULL, NULL, NULL),
+(74, 'The Bodley Head Ltd', NULL, NULL, NULL, NULL),
+(75, 'Horizon Publishers Private Ltd', NULL, NULL, NULL, NULL),
+(76, 'Facet Books International', NULL, NULL, NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -514,169 +654,167 @@ CREATE TABLE `publishers` (
 
 CREATE TABLE `themes` (
   `themeid` int(10) UNSIGNED NOT NULL,
-  `title` varchar(100) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `wikidata_uri` varchar(100) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `link` varchar(500) CHARACTER SET utf8mb4 DEFAULT NULL
+  `title` varchar(100) CHARACTER SET utf8mb4 DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
 -- Dumping data for table `themes`
 --
 
-INSERT INTO `themes` (`themeid`, `title`, `wikidata_uri`, `link`) VALUES
-(1, 'tiheroes', 'https://www.wikidata.org/wiki/Special:EntityPage/Q110910', ''),
-(2, 'epistolary', 'https://www.wikidata.org/wiki/Special:EntityPage/Q465821', ''),
-(3, 'experimental', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1384425', ''),
-(4, 'death', '', ''),
-(5, 'rebirth', '', ''),
-(6, 'dreams', '', ''),
-(7, 'marriage', '', ''),
-(8, 'psychological', 'https://www.wikidata.org/wiki/Special:EntityPage/Q286328', ''),
-(9, 'Puranas', 'https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard', ''),
-(10, 'Caste', 'https://www.wikidata.org/wiki/Special:EntityPage/Q484416', ''),
-(11, 'historical', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1196408', ''),
-(12, 'Tulsidas', 'https://www.wikidata.org/wiki/Special:EntityPage/Q312976', ''),
-(13, 'epic', '', 'https://www.britannica.com/art/epic'),
-(14, 'social realism', 'https://www.wikidata.org/wiki/Special:EntityPage/Q667661', ''),
-(15, 'family', '', ''),
-(16, 'common man', '', ''),
-(17, 'romance', 'https://www.wikidata.org/wiki/Special:EntityPage/Q858330', ''),
-(18, 'patriotism', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6241', ''),
-(19, 'political', 'https://www.wikidata.org/wiki/Special:EntityPage/Q2254211', ''),
-(20, 'detective', 'https://www.wikidata.org/wiki/Special:EntityPage/Q186424', ''),
-(21, 'addiction', 'https://www.wikidata.org/wiki/Special:EntityPage/Q12029', ''),
-(22, 'religious', 'https://www.wikidata.org/wiki/Special:EntityPage/Q9174', ''),
-(23, 'fairy tales', 'https://www.wikidata.org/wiki/Special:EntityPage/Q699', ''),
-(24, 'homeland', '', ''),
-(25, 'autobiography', 'https://www.wikidata.org/wiki/Special:EntityPage/Q4184', ''),
-(26, 'social issues', 'https://www.wikidata.org/wiki/Special:EntityPage/Q740919', ''),
-(27, 'crime', '', ''),
-(28, 'workers', 'https://www.wikidata.org/wiki/Special:EntityPage/Q627187', ''),
-(29, 'middle-class', '', ''),
-(30, 'youth', '', ''),
-(31, 'rural', '', ''),
-(32, 'morality', 'https://www.wikidata.org/wiki/Special:EntityPage/Q48324', ''),
-(33, 'disability', '', ''),
-(34, 'labour', 'https://www.wikidata.org/wiki/Special:EntityPage/Q627187', ''),
-(35, 'autobiographical', 'https://www.wikidata.org/wiki/Special:EntityPage/Q4184', ''),
-(36, 'artist', '', ''),
-(37, 'tukaram', 'https://www.wikidata.org/wiki/Special:EntityPage/Q468361', ''),
-(38, 'Naxalism', 'https://www.wikidata.org/wiki/Special:EntityPage/Q912158', ''),
-(39, 'mysticism', '', ''),
-(40, 'kafka', '', ''),
-(41, 'communication', '', ''),
-(42, 'tribal', '', ''),
-(43, 'partition', 'https://www.wikidata.org/wiki/Special:EntityPage/Q129053', ''),
-(44, 'alienation', 'https://www.wikidata.org/wiki/Special:EntityPage/Q545825', ''),
-(45, 'nostalgia', 'https://www.wikidata.org/wiki/Special:EntityPage/Q12151852', ''),
-(46, 'immigration', 'https://www.wikidata.org/wiki/Q131288', ''),
-(47, 'school life', '', ''),
-(48, '1857 War of Independence', 'https://www.wikidata.org/wiki/Special:EntityPage/Q129864', ''),
-(49, 'unity ', '', ''),
-(50, 'migration', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1666161', ''),
-(51, 'erotica', 'https://www.wikidata.org/wiki/Special:EntityPage/Q747483', ''),
-(52, 'myth', 'https://www.wikidata.org/wiki/Special:EntityPage/Q12827256', ''),
-(53, 'poverty', '', ''),
-(54, 'philosophy', '', ''),
-(55, 'cultural conflict', 'https://www.wikidata.org/wiki/Special:EntityPage/Q5193269', ''),
-(56, 'childhood', '', ''),
-(57, 'sisterhood', '', ''),
-(58, 'princess', '', ''),
-(59, 'existential', 'https://en.wikipedia.org/wiki/Existentialism', ''),
-(60, 'mystery', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6585139', ''),
-(61, 'passion', 'https://www.wikidata.org/wiki/Special:EntityPage/Q335046', ''),
-(62, 'high society', '', ''),
-(63, 'humour', 'https://en.wikipedia.org/wiki/Humour#India', ''),
-(64, 'metaphysical', 'https://www.wikidata.org/wiki/Special:EntityPage/Q25335951', ''),
-(65, 'tragedy', '', ''),
-(66, 'inner life', '', ''),
-(67, 'Diary', 'https://www.wikidata.org/wiki/Special:EntityPage/Q18939550', ''),
-(68, 'Buddha', 'https://www.wikidata.org/wiki/Special:EntityPage/Q9441', ''),
-(69, 'Krishna', 'https://www.wikidata.org/wiki/Special:EntityPage/Q42891', ''),
-(70, 'anthropology', '', ''),
-(71, 'estrangement', '', ''),
-(72, 'tradition vs modernity', '', ''),
-(73, 'jewish culture', '', ''),
-(74, 'domestic violence', 'https://www.wikidata.org/wiki/Special:EntityPage/Q156537', ''),
-(75, 'spiritual', '', ''),
-(76, 'children', '', ''),
-(77, 'film industry', '', ''),
-(78, 'tradition', '', ''),
-(79, 'urban', '', ''),
-(80, 'patriarchy', 'https://www.wikidata.org/wiki/Special:EntityPage/Q181339', ''),
-(81, 'upliftment', '', ''),
-(82, 'oppression', '', ''),
-(83, 'parenthood', '', ''),
-(84, 'trends', '', ''),
-(85, 'feud', '', ''),
-(86, 'matang community', 'https://www.wikidata.org/wiki/Special:EntityPage/Q6748570', ''),
-(87, 'prison', '', ''),
-(88, 'relationships', '', ''),
-(89, 'bildungsroman', 'https://www.wikidata.org/wiki/Special:EntityPage/Q223945', ''),
-(90, 'urban', '', ''),
-(91, 'legend', 'https://www.wikidata.org/wiki/Special:EntityPage/Q44342', ''),
-(92, 'yoga', 'https://www.wikidata.org/wiki/Special:EntityPage/Q9350', ''),
-(93, 'stream of consciousness', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3284176', ''),
-(94, 'uprising', '', ''),
-(95, 'fantasy', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1057172', ''),
-(96, 'art', '', ''),
-(97, 'race', 'https://www.wikidata.org/wiki/Special:EntityPage/Q3254959', ''),
-(98, 'sati', 'https://www.wikidata.org/wiki/Special:EntityPage/Q208088', ''),
-(99, 'adventure', 'https://www.wikidata.org/wiki/Special:EntityPage/Q21802675', ''),
-(100, 'freudian', '', ''),
-(101, 'Mughal', 'https://www.wikidata.org/wiki/Special:EntityPage/Q33296', ''),
-(102, 'feminism', 'https://www.wikidata.org/wiki/Special:EntityPage/Q26987750', ''),
-(103, 'feudal', '', ''),
-(104, 'adolescence', 'https://www.wikidata.org/wiki/Special:EntityPage/Q131774', ''),
-(105, 'corruption', 'https://www.wikidata.org/wiki/Special:EntityPage/Q366', ''),
-(106, 'psychoanalysis', 'https://www.wikidata.org/wiki/Special:EntityPage/Q15282905', ''),
-(107, 'fragmentation', '', ''),
-(108, 'meditation', '', ''),
-(109, 'biography', 'https://www.wikidata.org/wiki/Special:EntityPage/Q36279', ''),
-(110, 'identity', '', ''),
-(111, 'moral', '', ''),
-(112, 'dalit', 'https://www.wikidata.org/wiki/Special:EntityPage/Q219517', ''),
-(113, 'modernity', 'https://www.wikidata.org/wiki/Special:EntityPage/Q11084414', ''),
-(114, 'mining', 'https://www.wikidata.org/wiki/Special:EntityPage/Q44497', ''),
-(115, 'industrialization', 'https://www.wikidata.org/wiki/Special:EntityPage/Q202398', ''),
-(116, 'contemporary', '', ''),
-(117, 'education', '', ''),
-(118, 'superstition', 'https://www.wikidata.org/wiki/Special:EntityPage/Q133182', ''),
-(119, 'lust', '', ''),
-(120, 'medical', 'https://en.wikipedia.org/wiki/Disease_in_fiction', ''),
-(121, 'social movement', '', ''),
-(122, 'homelessness', 'https://www.wikidata.org/wiki/Special:EntityPage/Q131327', ''),
-(123, 'globalization', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7181', ''),
-(124, 'prejudice', '', ''),
-(125, 'British', '', ''),
-(126, 'sexuality', 'https://www.wikidata.org/wiki/Special:EntityPage/Q154136', ''),
-(127, 'family drama', '', ''),
-(128, 'Rajput', 'https://www.wikidata.org/wiki/Special:EntityPage/Q337487', ''),
-(129, 'magic', 'https://www.wikidata.org/wiki/Special:EntityPage/Q81741', ''),
-(130, 'melodrama', 'https://www.wikidata.org/wiki/Special:EntityPage/Q191489', ''),
-(131, 'Oedipus complex', 'https://www.wikidata.org/wiki/Special:EntityPage/Q131246', ''),
-(132, 'kingdoms', 'https://www.wikidata.org/wiki/Special:EntityPage/Q7269', ''),
-(133, 'West vs East', '', ''),
-(134, 'class warfare', 'https://www.wikidata.org/wiki/Special:EntityPage/Q1744607', ''),
-(135, 'longing', '', ''),
-(136, 'homecoming', '', ''),
-(137, 'celebrity', '', ''),
-(138, 'lifestyle', '', ''),
-(139, 'domesticity', '', ''),
-(140, 'diaspora', 'https://www.wikidata.org/wiki/Special:EntityPage/Q133004', ''),
-(141, 'justice', '', ''),
-(142, 'machiavellian', '', ''),
-(143, 'injustice', '', ''),
-(144, 'army', '', ''),
-(145, 'blackness', '', ''),
-(146, 'slavery', 'https://www.wikidata.org/wiki/Special:EntityPage/Q8463', ''),
-(147, 'drama', '', ''),
-(148, 'satire', 'https://www.wikidata.org/wiki/Special:EntityPage/Q128758', ''),
-(149, 'three-act', '', ''),
-(150, 'postcolonial', 'https://www.wikidata.org/wiki/Special:EntityPage/Q265425', ''),
-(151, 'Modernism', 'https://www.wikidata.org/wiki/Special:EntityPage/Q971480', ''),
-(152, 'Existentialism', 'https://www.wikidata.org/wiki/Special:EntityPage/Q38066', ''),
-(153, 'Marxism', '', '');
+INSERT INTO `themes` (`themeid`, `title`) VALUES
+(1, 'tiheroes'),
+(2, 'epistolary'),
+(3, 'experimental'),
+(4, 'death'),
+(5, 'rebirth'),
+(6, 'dreams'),
+(7, 'marriage'),
+(8, 'psychological'),
+(9, 'Puranas'),
+(10, 'Caste'),
+(11, 'historical'),
+(12, 'Tulsidas'),
+(13, 'epic'),
+(14, 'social realism'),
+(15, 'family'),
+(16, 'common man'),
+(17, 'romance'),
+(18, 'patriotism'),
+(19, 'political'),
+(20, 'detective'),
+(21, 'addiction'),
+(22, 'religious'),
+(23, 'fairy tales'),
+(24, 'homeland'),
+(25, 'autobiography'),
+(26, 'social issues'),
+(27, 'crime'),
+(28, 'workers'),
+(29, 'middle-class'),
+(30, 'youth'),
+(31, 'rural'),
+(32, 'morality'),
+(33, 'disability'),
+(34, 'labour'),
+(35, 'autobiographical'),
+(36, 'artist'),
+(37, 'tukaram'),
+(38, 'Naxalism'),
+(39, 'mysticism'),
+(40, 'kafka'),
+(41, 'communication'),
+(42, 'tribal'),
+(43, 'partition'),
+(44, 'alienation'),
+(45, 'nostalgia'),
+(46, 'immigration'),
+(47, 'school life'),
+(48, '1857 War of Independence'),
+(49, 'unity '),
+(50, 'migration'),
+(51, 'erotica'),
+(52, 'myth'),
+(53, 'poverty'),
+(54, 'philosophy'),
+(55, 'cultural conflict'),
+(56, 'childhood'),
+(57, 'sisterhood'),
+(58, 'princess'),
+(59, 'existential'),
+(60, 'mystery'),
+(61, 'passion'),
+(62, 'high society'),
+(63, 'humour'),
+(64, 'metaphysical'),
+(65, 'tragedy'),
+(66, 'inner life'),
+(67, 'Diary'),
+(68, 'Buddha'),
+(69, 'Krishna'),
+(70, 'anthropology'),
+(71, 'estrangement'),
+(72, 'tradition vs modernity'),
+(73, 'jewish culture'),
+(74, 'domestic violence'),
+(75, 'spiritual'),
+(76, 'children'),
+(77, 'film industry'),
+(78, 'tradition'),
+(79, 'urban'),
+(80, 'patriarchy'),
+(81, 'upliftment'),
+(82, 'oppression'),
+(83, 'parenthood'),
+(84, 'trends'),
+(85, 'feud'),
+(86, 'matang community'),
+(87, 'prison'),
+(88, 'relationships'),
+(89, 'bildungsroman'),
+(90, 'urban'),
+(91, 'legend'),
+(92, 'yoga'),
+(93, 'stream of consciousness'),
+(94, 'uprising'),
+(95, 'fantasy'),
+(96, 'art'),
+(97, 'race'),
+(98, 'sati'),
+(99, 'adventure'),
+(100, 'freudian'),
+(101, 'Mughal'),
+(102, 'feminism'),
+(103, 'feudal'),
+(104, 'adolescence'),
+(105, 'corruption'),
+(106, 'psychoanalysis'),
+(107, 'fragmentation'),
+(108, 'meditation'),
+(109, 'biography'),
+(110, 'identity'),
+(111, 'moral'),
+(112, 'dalit'),
+(113, 'modernity'),
+(114, 'mining'),
+(115, 'industrialization'),
+(116, 'contemporary'),
+(117, 'education'),
+(118, 'superstition'),
+(119, 'lust'),
+(120, 'medical'),
+(121, 'social movement'),
+(122, 'homelessness'),
+(123, 'globalization'),
+(124, 'prejudice'),
+(125, 'British'),
+(126, 'sexuality'),
+(127, 'family drama'),
+(128, 'Rajput'),
+(129, 'magic'),
+(130, 'melodrama'),
+(131, 'Oedipus complex'),
+(132, 'kingdoms'),
+(133, 'West vs East'),
+(134, 'class warfare'),
+(135, 'longing'),
+(136, 'homecoming'),
+(137, 'celebrity'),
+(138, 'lifestyle'),
+(139, 'domesticity'),
+(140, 'diaspora'),
+(141, 'justice'),
+(142, 'machiavellian'),
+(143, 'injustice'),
+(144, 'army'),
+(145, 'blackness'),
+(146, 'slavery'),
+(147, 'drama'),
+(148, 'satire'),
+(149, 'three-act'),
+(150, 'postcolonial'),
+(151, 'Modernism'),
+(152, 'Existentialism'),
+(153, 'Marxism');
 
 -- --------------------------------------------------------
 
@@ -686,22 +824,73 @@ INSERT INTO `themes` (`themeid`, `title`, `wikidata_uri`, `link`) VALUES
 
 CREATE TABLE `translations` (
   `translationid` int(10) UNSIGNED NOT NULL,
-  `bookid` int(10) UNSIGNED NOT NULL,
-  `title` varchar(150) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `alternative_title` varchar(150) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `from_language` smallint(5) UNSIGNED DEFAULT NULL,
-  `to_language` smallint(5) UNSIGNED DEFAULT NULL,
-  `translator` int(10) UNSIGNED DEFAULT NULL,
+  `bookid` int(10) UNSIGNED DEFAULT NULL,
+  `title` varchar(150) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `alternative_title` varchar(150) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `languageid` smallint(5) UNSIGNED DEFAULT NULL,
+  `creatorid` int(10) UNSIGNED DEFAULT NULL,
   `year` smallint(4) DEFAULT NULL,
-  `description` mediumtext CHARACTER SET utf8mb4,
-  `publisher` mediumint(6) UNSIGNED DEFAULT NULL,
-  `link` varchar(250) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `ISBN` varchar(13) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `ASIN` varchar(10) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `from_title` varchar(150) CHARACTER SET utf8mb4 DEFAULT NULL,
-  `genre` set('fiction','non-fiction','novel','novella','chapbook','short story','essay','poetry','play','song','folk','graphic','collection') CHARACTER SET utf8mb4 DEFAULT NULL,
-  `image` blob
+  `description` mediumtext COLLATE utf8mb4_unicode_ci,
+  `publisherid` mediumint(6) UNSIGNED DEFAULT NULL,
+  `link` varchar(500) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `ISBN` varchar(15) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `ASIN` varchar(10) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `image` blob,
+  `from_title` varchar(150) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `from_languageid` smallint(5) UNSIGNED DEFAULT NULL,
+  `genre` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `translations`
+--
+
+INSERT INTO `translations` (`translationid`, `bookid`, `title`, `alternative_title`, `languageid`, `creatorid`, `year`, `description`, `publisherid`, `link`, `ISBN`, `ASIN`, `image`, `from_title`, `from_languageid`, `genre`) VALUES
+(1, NULL, 'ven Steps in the Sky', NULL, 1, NULL, 1994, 'The novel \'Seven steps in the sky\' is the English translation of a Gujarati novel named \'Saat pagla aakashma\' written by Kundanika Kapadia. The novel revolves around the life of the protagonist of the novel Vasudha and a few of her friends and relatives. ', NULL, 'https://www.gujaratibooks.com/seven-steps-in-the-sky.html', NULL, 'B000COZ0K4', NULL, NULL, NULL, NULL),
+(2, NULL, 'ન હન્યતે ', 'Na Hanyate', 2, 155, 1978, NULL, NULL, 'https://www.dhoomkharidi.com/na-hanyate-maitreyi-gujarati-book', NULL, NULL, NULL, NULL, NULL, NULL),
+(3, NULL, 'રઘુવંશ ', 'Raghuvansha', 2, 156, 1978, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(4, NULL, 'અરણ્યેર  દીનરાત્રિ ', 'Aranyer Dinratri', 2, 157, 1983, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(5, NULL, 'આજની  સોવિયેત  વાર્તાઓ ', 'Ajni Soviet Vartao', 2, 51, 1977, 'Translated Collection of Russian Literature', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(6, NULL, NULL, 'Hiku Gunah Maaf (One Mischief Pardoned) ', 6, 158, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(7, NULL, 'ધરતી  ખોલે  પાચચૉ  વળે ', 'Dharati Khole Pachcho Vale', 2, 203, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(8, NULL, ' अप्पा  पंत  - एक  प्रवास,  एक शोध', 'Appa Pant - Ek Pravas, Ek Shodh', 4, 159, NULL, NULL, NULL, 'http://opac.tiss.edu/cgi-bin/koha/opac-detail.pl?biblionumber=192132&shelfbrowse_itemnumber=205547', NULL, NULL, NULL, NULL, NULL, NULL),
+(9, NULL, 'Rain Through the Night', NULL, 1, 160, 1973, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(10, NULL, 'The Sins of Appus Mother', NULL, 1, 161, 1972, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(11, NULL, 'The Village has no Walls', NULL, 1, 162, 1959, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(12, NULL, 'Samskara', NULL, 1, 163, 1977, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(13, NULL, 'The Skeleton', NULL, 1, 164, 1977, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(14, NULL, 'Farewell to the Gods', NULL, 1, 165, 1977, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(15, NULL, 'The Winds of Fire', NULL, 1, 165, 1977, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(16, NULL, 'Crumpled Letter', NULL, 1, 166, 2017, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(17, NULL, 'To Hell with You', NULL, 1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(18, NULL, 'This is not that Dawn', NULL, 1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(19, NULL, 'Shulamith', NULL, 1, NULL, 1975, NULL, NULL, 'https://www.amazon.com/Shulamith-Indian-novels-Meera-Mahadevan/dp/B0006CNMZC', NULL, NULL, NULL, NULL, NULL, NULL),
+(20, NULL, 'तरल  अन्तराल ', 'Taral Anataral', 3, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(21, NULL, 'A Corpse In The Well: Marathi Dalit Autobiographies', NULL, 1, 167, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(22, NULL, 'Baluta', NULL, 1, 168, NULL, NULL, NULL, NULL, '9789385288203', NULL, NULL, NULL, NULL, NULL),
+(23, NULL, 'Upara: An Outsider', '', 1, 169, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(24, NULL, 'ઉપર', 'Upara', 2, NULL, NULL, NULL, NULL, 'https://www.amazon.com/Upara-GUJARATI-Laxman-Mane/dp/B003DRNGEY/ref=sr_1_1?dchild=1&keywords=upara&qid=1618441297&s=books&sr=1-1', '', 'B003DRNGEY', NULL, NULL, NULL, NULL),
+(25, NULL, 'A Tale with Seven Answers', NULL, 1, 170, 2014, NULL, NULL, 'https://www.bookganga.com/eBooks/Books/details/4971922492671899216?BookName=A-Tale-With-Seven-Answers', '9788123762524', NULL, NULL, NULL, NULL, NULL),
+(26, NULL, 'बिढार', 'Bidhar', 3, NULL, NULL, NULL, NULL, 'https://www.amazon.in/Bidhar-Bhalchandra-Nemade/dp/8126702982/ref=sr_1_16?dchild=1&qid=1618457652&refinements=p_27%3ABhalchandra+Nemade&s=books&sr=1-16', NULL, NULL, NULL, NULL, NULL, NULL),
+(27, NULL, 'Bidhar: On the Move', '', 1, 171, 2016, NULL, NULL, 'https://www.amazon.com/Bidhar-Bhalchandra-Nemade-Santosh-Bhoomkar/dp/8126028459', '9788126028450', NULL, NULL, NULL, NULL, NULL),
+(28, NULL, 'ਆਜ਼ਾਦੀ ', 'Azadi', 8, NULL, 1986, NULL, NULL, 'https://www.amazon.com/Azadi-PUNJABI-Chaman-Nahal/dp/B003FCV7VG', NULL, 'B003FCV7VG', NULL, NULL, NULL, NULL),
+(29, NULL, 'The Morning After: A Non-Novel', NULL, 1, NULL, 1973, NULL, NULL, 'https://www.abebooks.com/servlet/BookDetailsPL?bi=14356835452&cm_sp=SEARCHREC-_-WIDGET-L-_-BDP-R&searchurl=an%3Dchanakya%2Bsen%26sortby%3D17', NULL, NULL, NULL, NULL, NULL, NULL),
+(30, NULL, 'It Rained All Night', NULL, 1, 160, NULL, NULL, NULL, 'https://www.amazon.in/gp/product/0143067516/ref=x_gr_w_bb_glide_sin?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790', '9780143067511', NULL, NULL, NULL, NULL, NULL),
+(31, NULL, 'ଏକ ହରିଜନର ମୃତ୍ୟୁ', 'Death of a Harijan', 9, 172, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(32, NULL, 'Cocoon', NULL, 1, 173, 1997, NULL, NULL, 'https://www.amazon.com/Cocoon-Bhalchandra-Nemade/dp/817991819X#customerReviews', '9788179918197', NULL, NULL, NULL, NULL, NULL),
+(33, NULL, 'कोसला ', 'Kosala', 3, 174, 1992, NULL, NULL, 'https://www.amazon.com/Kosla-HINDI-Bhalchandra-Nemade/dp/B003FD0EZ0', NULL, 'B003FD0EZ0', NULL, NULL, NULL, NULL),
+(34, NULL, NULL, 'Need', 5, 175, 2001, NULL, NULL, 'https://www.amazon.com/Need-BENGALI-Bhalchandra-Nemade/dp/B003FCYHPY/ref=sr_1_7?dchild=1&qid=1618469857&refinements=p_27%3ABhalchandra+Nemade&s=books&sr=1-7&text=Bhalchandra+Nemade', NULL, 'B003FCYHPY', NULL, NULL, NULL, NULL),
+(35, NULL, NULL, 'Kosheto', 2, 176, 1995, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(36, NULL, NULL, 'Kosala', 7, 177, 1995, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(37, NULL, NULL, 'Palur Vaah', 10, 178, 1996, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(38, NULL, NULL, 'Kosala', 8, 179, 1996, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(39, NULL, NULL, 'Kosala', 11, 180, 2002, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(40, NULL, NULL, 'Koshapok', 9, 181, 2005, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(41, NULL, 'మరల సేద్యానికి', '', 12, 182, 2015, NULL, NULL, NULL, '9788128010798', NULL, NULL, NULL, NULL, NULL),
+(42, NULL, 'Return to Earth', NULL, 1, 183, 2002, NULL, NULL, 'https://www.amazon.in/gp/product/8126010657/ref=x_gr_w_bb_sin?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790', '9788126010653', NULL, NULL, NULL, NULL, NULL),
+(43, NULL, 'ওপজা  মাটির  হাত  বাউলি ', 'Opaja Matir Hat Bauli', 10, 184, 2006, NULL, NULL, 'https://www.indiaclub.com/Opaja-Matir-Hat-Bauli--ASSAMESE_p_409563.html', NULL, 'B005F5M6I4', NULL, NULL, NULL, NULL),
+(44, NULL, 'People', NULL, 1, 185, 2005, NULL, NULL, 'https://www.amazon.in/gp/product/8185569673/ref=x_gr_w_bb_sin?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790', '9788185569673', NULL, NULL, NULL, NULL, NULL),
+(45, NULL, 'થાનક  યૌ  મિસ્ટર  ગ્લેડ ', 'Thank you Mr. Glad', 2, 186, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -740,6 +929,13 @@ ALTER TABLE `book_language`
   ADD KEY `languageid` (`languageid`);
 
 --
+-- Indexes for table `book_setting`
+--
+ALTER TABLE `book_setting`
+  ADD PRIMARY KEY (`bookid`,`settingid`),
+  ADD KEY `settingid` (`settingid`);
+
+--
 -- Indexes for table `book_theme`
 --
 ALTER TABLE `book_theme`
@@ -750,7 +946,16 @@ ALTER TABLE `book_theme`
 -- Indexes for table `creators`
 --
 ALTER TABLE `creators`
-  ADD PRIMARY KEY (`creatorid`);
+  ADD PRIMARY KEY (`creatorid`),
+  ADD KEY `birth_place` (`birth_place`),
+  ADD KEY `work_place` (`work_place`);
+
+--
+-- Indexes for table `creator_movement`
+--
+ALTER TABLE `creator_movement`
+  ADD PRIMARY KEY (`creatorid`,`movementid`),
+  ADD KEY `movementid` (`movementid`);
 
 --
 -- Indexes for table `languages`
@@ -795,10 +1000,9 @@ ALTER TABLE `themes`
 ALTER TABLE `translations`
   ADD PRIMARY KEY (`translationid`),
   ADD KEY `bookid` (`bookid`),
-  ADD KEY `from_language` (`from_language`),
-  ADD KEY `to_language` (`to_language`),
-  ADD KEY `translator` (`translator`),
-  ADD KEY `publisher` (`publisher`);
+  ADD KEY `fk_from_language_id` (`languageid`),
+  ADD KEY `fk_translator` (`creatorid`),
+  ADD KEY `fk_publisher` (`publisherid`);
 
 --
 -- Indexes for table `translation_theme`
@@ -827,7 +1031,7 @@ ALTER TABLE `creators`
 -- AUTO_INCREMENT for table `languages`
 --
 ALTER TABLE `languages`
-  MODIFY `languageid` smallint(5) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `languageid` smallint(5) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT for table `locations`
@@ -839,13 +1043,13 @@ ALTER TABLE `locations`
 -- AUTO_INCREMENT for table `movements`
 --
 ALTER TABLE `movements`
-  MODIFY `movementid` mediumint(6) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `movementid` mediumint(6) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `publishers`
 --
 ALTER TABLE `publishers`
-  MODIFY `publisherid` mediumint(6) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `publisherid` mediumint(6) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=77;
 
 --
 -- AUTO_INCREMENT for table `themes`
@@ -857,7 +1061,18 @@ ALTER TABLE `themes`
 -- AUTO_INCREMENT for table `translations`
 --
 ALTER TABLE `translations`
-  MODIFY `translationid` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `translationid` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=46;
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `creators`
+--
+ALTER TABLE `creators`
+  ADD CONSTRAINT `creators_ibfk_1` FOREIGN KEY (`birth_place`) REFERENCES `locations` (`locationid`),
+  ADD CONSTRAINT `creators_ibfk_2` FOREIGN KEY (`work_place`) REFERENCES `locations` (`locationid`);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
